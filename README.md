@@ -1,4 +1,8 @@
-<p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=carlxjoe&label=Profile%20views&color=0e75b6&style=flat"
+<h2> About Me </h2>
+
+Hai Saya Nama samaran(Davian) Saya hanya seorang programmer newbie yg masih banyak belajar sekian terima gaji
+
+<p align="right"> <h4>Profile Views:</h4> <img src="https://komarev.com/ghpvc/?username=carlxjoe&label=Profile%20views&color=0e75b6&style=flat"
     alt="davian" /> 
   </p>
 
@@ -47,12 +51,12 @@
 <h3>Stats:</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=carlxjoe&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="arzxh" 
+    alt="dapian" 
     bg_color=#808080/></p>
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlxjoe&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="arzxh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlxjoe&show_icons=true&locale=en&bg_color=ffffff&text_color=0d1117&repo=convoychat"
+    alt="dapian" /></p>
 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlxjoe&theme=white&background=ffffff&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
