@@ -1,7 +1,7 @@
 <h2> About Me </h2>
-
-Hai Saya Nama samaran(Davian) Saya hanya seorang programmer newbie yg masih banyak belajar sekian terima gaji
-
+<p>
+Hai Saya Nama samaran(Davian) Saya hanya seorang programmer newbie yg masih banyak belajar sekian terima gaji <img src="https://media4.giphy.com/media/3og0IG0skAiznZQLde/giphy.webp?cid=6c09b952f7e3024c1f03cca63854e1db3202be2b57abbb66&rid=giphy.webp&ct=g" width=50>
+</p>
 <p align="right"> <h4>Profile Views:</h4> <img src="https://komarev.com/ghpvc/?username=carlxjoe&label=Profile%20views&color=0e75b6&style=flat"
     alt="davian" /> 
   </p>
@@ -10,7 +10,7 @@ Hai Saya Nama samaran(Davian) Saya hanya seorang programmer newbie yg masih bany
 
 - 🔥✨Rest api in developement [Click](https://dvanzapi.my.id)
 
-<h3 align="left">Contact:</h3>
+<h4 align="left">Contact:</h4>
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100064516381260" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -20,51 +20,15 @@ Hai Saya Nama samaran(Davian) Saya hanya seorang programmer newbie yg masih bany
       alt="load" height="30" width="40" /></a> 
  <a href="https://twitter.com/rizkyadin7" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="Arsyad Al Zikri" height="30" width="40" /></a> 
+      alt="load" height="30" width="40" /></a> 
 </p>
 
-<br>
+### <img src="https://media2.giphy.com/media/3ov9jZ0V6gOO0oa98Y/giphy.gif?cid=6c09b952c8060150fe6f0deab3b4f43b8ecd539a39292d48&rid=giphy.gif&ct=g" width=30> My Stat Info...
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> </p>
+|                                                                                                           |                                                                                                                                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Github stats](https://github-readme-stats.vercel.app/api?username=carlxjoe&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) |[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carlxjoe&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFFFFF&currStreakLabel=FFFFFF)](https://git.io/streak-stats) |
 
-<br>
-
-<h3>Stats:</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=carlxjoe&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="dapian" 
-    bg_color=#808080/></p>
-
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlxjoe&show_icons=true&locale=en&bg_color=ffffff&text_color=0d1117&repo=convoychat"
-    alt="dapian" /></p>
-
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlxjoe&theme=white&background=ffffff&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-
-<!-- <br>
-<h3>Trophies :-</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=carlxjoe&bg_color=ffffff&text_color=0d1117" alt="dapian" /></a> </p> -->
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+|                                                                                                                                                                                                                                                                                                                                           |                         
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=carlxjoe&theme=xcode&area=true&hide_border=true) |
