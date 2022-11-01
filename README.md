@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages.
 
-- 🔥✨Rest api in developement [Click](dvanzapi.my.id)
+- 🔥✨Rest api in developement [Click](https://dvanzapi.my.id)
 
 <h3 align="left">Contact:</h3>
 <p align="left">
@@ -55,12 +55,12 @@
     alt="arzxh" /></p>
 
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlxjoe&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlxjoe&theme=white&background=ffffff&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
 
 <!-- <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=carlxjoe&bg_color=0d1117&text_color=ffffff" alt="arzxh" /></a> </p> -->
+      src="https://github-profile-trophy.vercel.app/?username=carlxjoe&bg_color=ffffff&text_color=0d1117" alt="dapian" /></a> </p> -->
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
