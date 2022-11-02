@@ -20,8 +20,13 @@ Hai Saya Nama samaran(Davian) Saya hanya seorang programmer newbie yg masih bany
       alt="load" height="30" width="40" /></a> 
  <a href="https://twitter.com/rizkyadin7" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="load" height="30" width="40" /></a> 
+      alt="want follow?" height="30" width="40" /></a> 
+ <a href="https://wa.me/6282328303332" target="blank"><img align="center"
+      src="https://github.com/carlxjoe/carlxjoe/raw/main/walogo.svg.png"
+      alt="Whatsapp" height="30" width="30" /></a> 
 </p>
+
+
 
 ### <img src="https://media2.giphy.com/media/3ov9jZ0V6gOO0oa98Y/giphy.gif?cid=6c09b952c8060150fe6f0deab3b4f43b8ecd539a39292d48&rid=giphy.gif&ct=g" width=30> My Stat Info...
 
