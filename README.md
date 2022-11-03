@@ -1,7 +1,7 @@
 <h2> About Me </h2>
-<p>
-Hai Saya Nama samaran(Davian) Saya hanya seorang programmer newbie yg masih banyak belajar..Info lengkap bisa di[website](http://davxndev.my.id/) saya :),, sekian terima gaji <img src="https://media4.giphy.com/media/3og0IG0skAiznZQLde/giphy.webp?cid=6c09b952f7e3024c1f03cca63854e1db3202be2b57abbb66&rid=giphy.webp&ct=g" width=50>
-</p>
+
+Hai Saya Nama samaran(Davian) Saya hanya seorang programmer newbie yg masih banyak belajar..Info lengkap bisa di [website](http://davxndev.my.id/) saya :),, sekian terima gaji <img src="https://media4.giphy.com/media/3og0IG0skAiznZQLde/giphy.webp?cid=6c09b952f7e3024c1f03cca63854e1db3202be2b57abbb66&rid=giphy.webp&ct=g" width=50>
+
 <p align="right"> <h4>Profile Views:</h4> <img src="https://komarev.com/ghpvc/?username=carlxjoe&label=Profile%20views&color=0e75b6&style=flat"
     alt="davian" /> 
   </p>
