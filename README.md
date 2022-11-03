@@ -6,7 +6,7 @@ Hai Saya Nama samaran(Davian) Saya hanya seorang programmer newbie yg masih bany
     alt="davian" /> 
   </p>
 
-- 🌱 I’m currently learning Web Development and other programming languages.
+- 🌱 WKWKW
 
 - 🔥✨Rest api in developement [Click](https://dvanzapi.my.id)
 
